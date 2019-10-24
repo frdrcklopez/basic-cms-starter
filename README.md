@@ -21,6 +21,7 @@ Basic Laravel6 starter package for CMS with Rich Text Editor TinyMCE5 and Larave
   <ul>
     <li><pre><code>$ npm install</code></pre></li>
     <li><pre><code>$ composer install</code></pre></li>
+    <li><pre><code>$ php artisan key:generate</code></pre></li>
   </ul>
 
 4) connect to database then run the:
