@@ -3,7 +3,7 @@ Basic Laravel6 starter package for CMS with Rich Text Editor TinyMCE5 and Larave
 
 
 <h2>Basic CMS Starter Included</h2>
-<hr>
+
 <ul>
   <li>Login using username</li>
    <li>Laravel Collective</li>
@@ -13,7 +13,6 @@ Basic Laravel6 starter package for CMS with Rich Text Editor TinyMCE5 and Larave
 
 
 <h2>Installation</h2>
-<hr>
 
 1) clone or download the repository (.\basic-cms-starter)
 2) copy <code>.env.example</code> file at "cms-basic-start" directory rename in to <code>.env</code> (.\basic-cms-starter\.env).
